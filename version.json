@@ -1,0 +1,7 @@
+{
+    "version":  "1.2.0",
+    "zip":  "https://github.com/kentq2552/GoPet-QLTK/raw/main/update.zip",
+    "sha256":  "90d7a9cf6066b8a24bf66294e14bb29536b160f1a0d49ffc1c8298c63634a900",
+    "notes":  "Bản đầu có tự cập nhật. Tab Admin: hình vật phẩm chia theo mục, thêm pet, sửa cấp/bậc/sao, cộng lực chiến, dịch chuyển, auto map theo cấp pet, giảm hồi chiêu và tăng tốc auto.",
+    "date":  "2026-10-25"
+}
